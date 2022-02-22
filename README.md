@@ -37,13 +37,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Axios
 
 
-### Informações Pessoais
+## Informações Pessoais
 
 * [Linkedin](https://www.linkedin.com/in/edson-allencar/)
 * [Curriculo Lattes](http://lattes.cnpq.br/6250444022483376)
 
 
-# Rodando o projeto
+## Rodando o projeto
 
 ```
 npm i         | yarn
