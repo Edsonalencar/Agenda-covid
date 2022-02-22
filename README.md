@@ -5,8 +5,6 @@
 <p align="center">
   <a href="#-apresentação">Apresentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-informacoes-pessoais">Informações Pessoais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando-projeto">Rodando o projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
