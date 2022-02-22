@@ -43,6 +43,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Rodando projeto
 
+O projeto faz uso de um back mocado que é essêncial para o seu total funcionamento.
+* [Back Agendamento Exames](https://github.com/rayronvictor/agendamento-exames-edital-05-22)
+
 ```
 npm i         | yarn
 npm run dev   | yarn dev
