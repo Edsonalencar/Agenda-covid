@@ -18,7 +18,7 @@
 
 Agenda covid é uma plataforma de agendamentos para a vacinação da covid 19, a ideia e o dising do projeto vieram de um processo seletivo
 que realizei para uma bolsa de pesquisa na Universidade Federal do Rio Grande do Norte - UFRN, aproveitei o desafio proposto para me atualizar
-e ampliar meus conhecimentos, com isso fiz uso de Vue 3,cujo meu conhecimento era muito superficial e Tailwind css que nunca tinha utilizado,
+e ampliar meus conhecimentos, com isso fiz uso de Vue 3, cujo meu conhecimento era muito superficial e Tailwind css que nunca tinha utilizado,
 de modo geral nós tivemos cerca de 9 dias para finalizar o projeto, e posso dizer que foi um otimo desafio e um processo muito rico em aprendizado.
 
 
